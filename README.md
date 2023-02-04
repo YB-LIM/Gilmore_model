@@ -9,4 +9,5 @@ E-mail: lyb0684@naver.com
 
 # How to run the script
 (1) Download the contents and put all together in the same folder\
-(2) Unzip the For_GIF file (empty foler where image files are saved)\
+(2) Unzip the For_GIF file \
+(3) Run the script and the results are saved as image files in the For_GIF 
