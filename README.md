@@ -4,7 +4,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6989599417561464832/ \
 The Gilmore equation describes the dynamics of cavitation micro-bubble
 
 # AUTHOR
-Name: Yougbin LIM \
+Name: Youngbin LIM \
 E-mail: lyb0684@naver.com
 
 # How to run the script
