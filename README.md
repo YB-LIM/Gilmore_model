@@ -14,3 +14,6 @@ E-mail: lyb0684@naver.com
 (1) Download the contents and put all together in the same folder\
 (2) Unzip the For_GIF file \
 (3) Run the script and the results are saved as image files in the For_GIF 
+
+# Buy me a coffee
+<a href="https://www.buymeacoffee.com/lyb280199G" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
