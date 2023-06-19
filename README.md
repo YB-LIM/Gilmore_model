@@ -7,6 +7,7 @@ The Gilmore equation describes the dynamics of cavitation micro-bubble
 Name: Youngbin LIM \
 E-mail: lyb0684@naver.com
 
+# Graphical abstract
 ![Honeycam 2023-06-19 13-51-46](https://github.com/YB-LIM/Gilmore_model/assets/105615106/cca066f5-273a-4a1e-a6d6-bdd7f979d6a5)
 
 
